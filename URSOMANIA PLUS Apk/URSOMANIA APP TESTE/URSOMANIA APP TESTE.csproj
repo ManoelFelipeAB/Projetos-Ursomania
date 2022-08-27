@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{66B5D1B6-EF16-463D-A551-B218A95A22A1}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>URSOMANIA_APP_TESTE</RootNamespace>
+    <AssemblyName>URSOMANIA APP TESTE</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="americano.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="americano.Designer.cs">
+      <DependentUpon>americano.cs</DependentUpon>
+    </Compile>
+    <Compile Include="asiatico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="asiatico.Designer.cs">
+      <DependentUpon>asiatico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="beicudo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="beicudo.Designer.cs">
+      <DependentUpon>beicudo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="calendario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="calendario.Designer.cs">
+      <DependentUpon>calendario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="google.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="google.Designer.cs">
+      <DependentUpon>google.cs</DependentUpon>
+    </Compile>
+    <Compile Include="imagem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="imagem.Designer.cs">
+      <DependentUpon>imagem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="info.Designer.cs">
+      <DependentUpon>info.cs</DependentUpon>
+    </Compile>
+    <Compile Include="lista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="lista.Designer.cs">
+      <DependentUpon>lista.cs</DependentUpon>
+    </Compile>
+    <Compile Include="malaio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="malaio.Designer.cs">
+      <DependentUpon>malaio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="newform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="newform.Designer.cs">
+      <DependentUpon>newform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="oculos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="oculos.Designer.cs">
+      <DependentUpon>oculos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="panda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="panda.Designer.cs">
+      <DependentUpon>panda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pardo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pardo.Designer.cs">
+      <DependentUpon>pardo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="polar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="polar.Designer.cs">
+      <DependentUpon>polar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="randomc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="randomc.Designer.cs">
+      <DependentUpon>randomc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="sobre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sobre.Designer.cs">
+      <DependentUpon>sobre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="video.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="video.Designer.cs">
+      <DependentUpon>video.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="americano.resx">
+      <DependentUpon>americano.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="asiatico.resx">
+      <DependentUpon>asiatico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="beicudo.resx">
+      <DependentUpon>beicudo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="calendario.resx">
+      <DependentUpon>calendario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="google.resx">
+      <DependentUpon>google.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="imagem.resx">
+      <DependentUpon>imagem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="info.resx">
+      <DependentUpon>info.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lista.resx">
+      <DependentUpon>lista.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="malaio.resx">
+      <DependentUpon>malaio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="newform.resx">
+      <DependentUpon>newform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="oculos.resx">
+      <DependentUpon>oculos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="panda.resx">
+      <DependentUpon>panda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pardo.resx">
+      <DependentUpon>pardo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="polar.resx">
+      <DependentUpon>polar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="randomc.resx">
+      <DependentUpon>randomc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sobre.resx">
+      <DependentUpon>sobre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="video.resx">
+      <DependentUpon>video.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

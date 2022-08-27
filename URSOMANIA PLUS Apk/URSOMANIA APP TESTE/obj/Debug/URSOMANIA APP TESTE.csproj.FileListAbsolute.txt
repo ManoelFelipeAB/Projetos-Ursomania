@@ -1,0 +1,27 @@
+C:\Users\Filipe\source\repos\URSOMANIA APP TESTE\URSOMANIA APP TESTE\bin\Debug\URSOMANIA APP TESTE.exe.config
+C:\Users\Filipe\source\repos\URSOMANIA APP TESTE\URSOMANIA APP TESTE\bin\Debug\URSOMANIA APP TESTE.exe
+C:\Users\Filipe\source\repos\URSOMANIA APP TESTE\URSOMANIA APP TESTE\bin\Debug\URSOMANIA APP TESTE.pdb
+C:\Users\Filipe\source\repos\URSOMANIA APP TESTE\URSOMANIA APP TESTE\obj\Debug\URSOMANIA APP TESTE.csprojAssemblyReference.cache
+C:\Users\Filipe\source\repos\URSOMANIA APP TESTE\URSOMANIA APP TESTE\obj\Debug\URSOMANIA_APP_TESTE.Form1.resources
+C:\Users\Filipe\source\repos\URSOMANIA APP TESTE\URSOMANIA APP TESTE\obj\Debug\URSOMANIA_APP_TESTE.Properties.Resources.resources
+C:\Users\Filipe\source\repos\URSOMANIA APP TESTE\URSOMANIA APP TESTE\obj\Debug\URSOMANIA APP TESTE.csproj.GenerateResource.cache
+C:\Users\Filipe\source\repos\URSOMANIA APP TESTE\URSOMANIA APP TESTE\obj\Debug\URSOMANIA APP TESTE.csproj.CoreCompileInputs.cache
+C:\Users\Filipe\source\repos\URSOMANIA APP TESTE\URSOMANIA APP TESTE\obj\Debug\URSOMANIA APP TESTE.exe
+C:\Users\Filipe\source\repos\URSOMANIA APP TESTE\URSOMANIA APP TESTE\obj\Debug\URSOMANIA APP TESTE.pdb
+C:\Users\Filipe\source\repos\URSOMANIA APP TESTE\URSOMANIA APP TESTE\obj\Debug\URSOMANIA_APP_TESTE.info.resources
+C:\Users\Filipe\source\repos\URSOMANIA APP TESTE\URSOMANIA APP TESTE\obj\Debug\URSOMANIA_APP_TESTE.imagem.resources
+C:\Users\Filipe\source\repos\URSOMANIA APP TESTE\URSOMANIA APP TESTE\obj\Debug\URSOMANIA_APP_TESTE.pardo.resources
+C:\Users\Filipe\source\repos\URSOMANIA APP TESTE\URSOMANIA APP TESTE\obj\Debug\URSOMANIA_APP_TESTE.asiatico.resources
+C:\Users\Filipe\source\repos\URSOMANIA APP TESTE\URSOMANIA APP TESTE\obj\Debug\URSOMANIA_APP_TESTE.panda.resources
+C:\Users\Filipe\source\repos\URSOMANIA APP TESTE\URSOMANIA APP TESTE\obj\Debug\URSOMANIA_APP_TESTE.polar.resources
+C:\Users\Filipe\source\repos\URSOMANIA APP TESTE\URSOMANIA APP TESTE\obj\Debug\URSOMANIA_APP_TESTE.americano.resources
+C:\Users\Filipe\source\repos\URSOMANIA APP TESTE\URSOMANIA APP TESTE\obj\Debug\URSOMANIA_APP_TESTE.beicudo.resources
+C:\Users\Filipe\source\repos\URSOMANIA APP TESTE\URSOMANIA APP TESTE\obj\Debug\URSOMANIA_APP_TESTE.malaio.resources
+C:\Users\Filipe\source\repos\URSOMANIA APP TESTE\URSOMANIA APP TESTE\obj\Debug\URSOMANIA_APP_TESTE.oculos.resources
+C:\Users\Filipe\source\repos\URSOMANIA APP TESTE\URSOMANIA APP TESTE\obj\Debug\URSOMANIA_APP_TESTE.calendario.resources
+C:\Users\Filipe\source\repos\URSOMANIA APP TESTE\URSOMANIA APP TESTE\obj\Debug\URSOMANIA_APP_TESTE.video.resources
+C:\Users\Filipe\source\repos\URSOMANIA APP TESTE\URSOMANIA APP TESTE\obj\Debug\URSOMANIA_APP_TESTE.google.resources
+C:\Users\Filipe\source\repos\URSOMANIA APP TESTE\URSOMANIA APP TESTE\obj\Debug\URSOMANIA_APP_TESTE.lista.resources
+C:\Users\Filipe\source\repos\URSOMANIA APP TESTE\URSOMANIA APP TESTE\obj\Debug\URSOMANIA_APP_TESTE.randomc.resources
+C:\Users\Filipe\source\repos\URSOMANIA APP TESTE\URSOMANIA APP TESTE\obj\Debug\URSOMANIA_APP_TESTE.newform.resources
+C:\Users\Filipe\source\repos\URSOMANIA APP TESTE\URSOMANIA APP TESTE\obj\Debug\URSOMANIA_APP_TESTE.sobre.resources
